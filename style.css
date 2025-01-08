@@ -1,0 +1,29 @@
+#Calculator{
+    background-color: black;
+    height: 400px;
+    width: 400px;
+    margin-left: 35%;
+    box-sizing: border-box;
+    padding-left: 14px;
+    padding-top: 14px;
+    margin-top: 102px;
+
+}
+#screen{
+    height: 71px;
+    width: 364px;
+    box-sizing: border-box;
+    pointer-events: none;
+}
+.btn{
+    width: 74px;
+    height: 54px;
+}
+.keypad{
+    padding-left: 30px;
+    padding-top: 32px;
+}
+#input{
+    height: 71px;
+    width: 364px;
+}
